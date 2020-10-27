@@ -5,7 +5,10 @@ You can use the [editor on GitHub](https://github.com/rattaoup/rpukdee.github.io
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Biography
-Rattana is a recently graduated from the University of Oxford with a Master in Mathematics (4 years course).
+
+
+### Projects
+Improving Transformation Invariance in Contrastive Representation Learning [Arxiv](https://arxiv.org/abs/2010.09515)
 
 ### Markdown
 
