@@ -1,5 +1,6 @@
 ### About me
 Hi, My name is Rattana Pukdee. I'm from Bangkok, Thailand. I've just finished my Master's and Bachelor's degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). Currently, I'm a research intern at [IST Austria](https://ist.ac.at/en/home/) under the supervision of Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/). <br>
+<br>
 I'm generally interested in understanding tools in machine learning using Mathematics and Statistics, in particular, deep neural network. Also, I'm interested in robustness and generalisation of properties of representation learning. 
 
 ### Projects
