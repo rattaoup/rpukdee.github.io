@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/rattaoup/rpukdee.github.io
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Biography
+Rattana is a recently graduated from the University of Oxford with a Master in Mathematics (4 years course).
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
