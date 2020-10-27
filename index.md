@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/rattaoup/rpukdee.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Biography
 Hi, I'm Rattana. I've just finished my Master in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). Currently, I'm a research intern at [IST Austria](https://ist.ac.at/en/home/) under the supervision of Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/).
 
@@ -17,12 +11,15 @@ Summer research project supervised by Dr. Andrey Kormilitzin <br>
 
 
 ### Coursework
-1. **3-term arithmetic progression**<br>
-3rd year extended essay supervised by Prof. Ben Green <br>
+1. **Hypergraphs projection method for community detections** <br>
+Mini-project for C5.4 Network
+[[pdf]()]
 2. **Network Analysis in Team sports and Applications to English Premier League** <br>
-4th year dissertation supervised by Dr. Ebrahim Patel <br>
-3. **Hypergraphs projection method for community detections** <br>
-Network mini-project
+Dissertation supervised by Dr. Ebrahim Patel <br>
+[[pdf]()]
+3. **3-term Arithmetic Progression**<br>
+Extended essay supervised by Prof. Ben Green <br>
+[[pdf]()]
 
 
 
