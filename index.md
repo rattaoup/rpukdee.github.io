@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/rattaoup/rpukdee.github.io
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Biography
-
+Hi, I'm Rattana. I've just finished my Master in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). Currently, I'm a research intern at [IST Austria](https://ist.ac.at/en/home/) under the supervision of Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/).
 
 ### Projects
 Improving Transformation Invariance in Contrastive Representation Learning [Arxiv](https://arxiv.org/abs/2010.09515)
