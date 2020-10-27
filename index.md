@@ -8,9 +8,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Hi, I'm Rattana. I've just finished my Master in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). Currently, I'm a research intern at [IST Austria](https://ist.ac.at/en/home/) under the supervision of Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/).
 
 ### Projects
-**Improving Transformation Invariance in Contrastive Representation Learning**<br>
+1. **Improving Transformation Invariance in Contrastive Representation Learning**<br>
 A.Foster, R.Pukdee, T.Rainforth <br>
 [[arXiv](https://arxiv.org/abs/2010.09515)]
+2. **Predict Bitcoin prices by using Signature time series modelling** <br>
+Summer research project supervised by Dr. Andrey Kormilitzin <br>
+[[Medium]()]
+
+
+### Coursework
+1. **3-term arithmetic progression**<br>
+3rd year extended essay supervised by Prof. Ben Green <br>
+2. **Network Analysis in Team sports and Applications to English Premier League** <br>
+4th year dissertation supervised by Dr. Ebrahim Patel <br>
+3. **Hypergraphs projection method for community detections** <br>
+Network mini-project
+
+
 
 ### Markdown
 
