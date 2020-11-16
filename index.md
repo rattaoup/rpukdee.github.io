@@ -24,6 +24,6 @@ Extended essay supervised by Prof. Ben Green <br>
 [[pdf](https://drive.google.com/file/d/19O119to6cChwI_R7LQNqqyAlIDQfOxP7/view?usp=sharing)]
 
 ### Information
-Email: rattanapukdee@gmail.com , [[CV](https://drive.google.com/file/d/1azSlK8K_5BQJnTJpsl1KOqMY2cI3ND1p/view?usp=sharing)]
+Email: rattanapukdee at gmail dot com , [[CV](https://drive.google.com/file/d/1azSlK8K_5BQJnTJpsl1KOqMY2cI3ND1p/view?usp=sharing)]
 
 
