@@ -9,13 +9,12 @@ A.Foster, R.Pukdee, T.Rainforth <br>
 [[arXiv](https://arxiv.org/abs/2010.09515)]
 2. **Predict Bitcoin prices by using Signature time series modelling** <br>
 Summer research project supervised by Dr. Andrey Kormilitzin <br>
-[[Medium](https://towardsdatascience.com/predict-bitcoin-prices-by-using-signature-time-series-modelling-cf3100a882cc)]
-
+[![Medium](/pics/bitcoin.png 'link to Medium')](https://towardsdatascience.com/predict-bitcoin-prices-by-using-signature-time-series-modelling-cf3100a882cc)
 
 ### Courseworks
 1. **Hypergraphs projection method for community detections** <br>
 Mini-project for C5.4 Network <br>
-[![Hypergraph](/pics/hypergraph.png)](https://drive.google.com/file/d/14jZxz5apsUdgUVnUUhe-jhq7F5sN7si7/view?usp=sharing)
+[![Hypergraph](/pics/hypergraph.png 'link to pdf')](https://drive.google.com/file/d/14jZxz5apsUdgUVnUUhe-jhq7F5sN7si7/view?usp=sharing)
 2. **Network Analysis in Team sports and Applications to English Premier League** <br>
 Dissertation supervised by Dr. Ebrahim Patel <br>
 [[pdf](https://drive.google.com/file/d/1LbiR_B0IlAIRU025P9r9BFtVkzQ31Qoj/view?usp=sharing)]
