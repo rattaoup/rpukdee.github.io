@@ -1,7 +1,7 @@
 ### About me
-Hi, My name is Rattana Pukdee. I'm from Bangkok, Thailand. I've just finished my Master's and Bachelor's degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). Currently, I'm a research intern at [IST Austria](https://ist.ac.at/en/home/) under the supervision of Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/). <br>
+Hi, My name is Rattana Pukdee. I'm from Bangkok, Thailand. I've just finished my Master's and Bachelor's degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). Currently, I'm a research intern at [IST Austria](https://ist.ac.at/en/home/) under the supervision of Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/), working on theoretical aspect of Neural Network Pruning. <br> From March 2021, I will be a research assistant at [National University of Singapore](https://www.comp.nus.edu.sg/) with Prof.[Bryan Low](https://www.comp.nus.edu.sg/~lowkh/research.html) and will work on Variational Unlearning.
 <br>
-I'm generally interested in understanding tools in machine learning using Mathematics and Statistics, in particular, deep neural network. Also, I'm interested in robustness and generalisation of properties of representation learning. 
+I'm generally interested in understanding tools in machine learning using Mathematics and Statistics, in particular, Deep Neural Networks. Also, I'm interested in robustness and generalisation of machine learning models. 
 
 ### Projects
 1. **Improving Transformation Invariance in Contrastive Representation Learning**<br>
@@ -25,4 +25,6 @@ Dissertation supervised by Dr. Ebrahim Patel <br>
 Extended essay supervised by Prof. Ben Green <br>
 [<img src=3term_arithmetic.png  height="150">](https://drive.google.com/file/d/19O119to6cChwI_R7LQNqqyAlIDQfOxP7/view?usp=sharing)
 
+### Information
+[[Resume](https://drive.google.com/file/d/1azSlK8K_5BQJnTJpsl1KOqMY2cI3ND1p/view?usp=sharing)]
 
