@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 
 title: Rattana Pukdee
 logo: logo.jpg
-description: Welcome to my personal webpage
 github:
   is_project_page: false
 
