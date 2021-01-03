@@ -3,5 +3,6 @@ theme: jekyll-theme-minimal
 title: Rattana Pukdee
 description: My personal website
 logo: logo.jpg
-  
+github:
+  is_project_page: false
 google_analytics: [G-9JQF1E3FMK]
