@@ -6,7 +6,7 @@ I'm generally interested in understanding tools in machine learning using Mathem
 ### Projects
 1. **Improving Transformation Invariance in Contrastive Representation Learning**<br>
 A.Foster, R.Pukdee, T.Rainforth <br>
-[[![Arxiv](/pics/spirograph.png 'link to ArXiv')](https://arxiv.org/abs/2010.09515)]
+[![Arxiv](/pics/spirograph.png 'link to ArXiv')](https://arxiv.org/abs/2010.09515)
 2. **Predict Bitcoin prices by using Signature time series modelling** <br>
 Summer research project supervised by Dr. Andrey Kormilitzin <br>
 [![Medium](/pics/bitcoin.png 'link to Medium')](https://towardsdatascience.com/predict-bitcoin-prices-by-using-signature-time-series-modelling-cf3100a882cc)
