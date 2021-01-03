@@ -17,11 +17,10 @@ Mini-project for C5.4 Network <br>
 [![Hypergraph](/pics/hypergraph.png 'link to pdf')](https://drive.google.com/file/d/14jZxz5apsUdgUVnUUhe-jhq7F5sN7si7/view?usp=sharing)
 2. **Network Analysis in Team sports and Applications to English Premier League** <br>
 Dissertation supervised by Dr. Ebrahim Patel <br>
-[[pdf](https://drive.google.com/file/d/1LbiR_B0IlAIRU025P9r9BFtVkzQ31Qoj/view?usp=sharing)]
+[![Dissertation](/pics/dissertation.png 'link to pdf')](https://drive.google.com/file/d/1LbiR_B0IlAIRU025P9r9BFtVkzQ31Qoj/view?usp=sharing)
 3. **3-term Arithmetic Progressions**<br>
 Extended essay supervised by Prof. Ben Green <br>
-[[pdf](https://drive.google.com/file/d/19O119to6cChwI_R7LQNqqyAlIDQfOxP7/view?usp=sharing)]
-
+[![Essay](/pics/3term_arithmetic.png 'link to pdf')](https://drive.google.com/file/d/19O119to6cChwI_R7LQNqqyAlIDQfOxP7/view?usp=sharing)
 ### Information
 Email: rattanapukdee at gmail dot com , [[CV](https://drive.google.com/file/d/1azSlK8K_5BQJnTJpsl1KOqMY2cI3ND1p/view?usp=sharing)]
 
