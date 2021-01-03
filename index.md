@@ -10,19 +10,19 @@ A.Foster, R.Pukdee, T.Rainforth <br>
 
 2. **Predict Bitcoin prices by using Signature time series modelling** <br>
 Summer research project supervised by Dr. Andrey Kormilitzin <br>
-[<img bitcoin.png  height="150">](https://towardsdatascience.com/predict-bitcoin-prices-by-using-signature-time-series-modelling-cf3100a882cc)
+[<img src=bitcoin.png  height="150">](https://towardsdatascience.com/predict-bitcoin-prices-by-using-signature-time-series-modelling-cf3100a882cc)
 
 ### Courseworks
 1. **Hypergraphs projection method for community detections** <br>
 Mini-project for C5.4 Network <br>
-[<img hypergraph.png  height="150">](https://drive.google.com/file/d/14jZxz5apsUdgUVnUUhe-jhq7F5sN7si7/view?usp=sharing)
+[<img src=hypergraph.png  height="150">](https://drive.google.com/file/d/14jZxz5apsUdgUVnUUhe-jhq7F5sN7si7/view?usp=sharing)
 
 2. **Network Analysis in Team sports and Applications to English Premier League** <br>
 Dissertation supervised by Dr. Ebrahim Patel <br>
-[<img dissertation.png  height="150">](https://drive.google.com/file/d/1LbiR_B0IlAIRU025P9r9BFtVkzQ31Qoj/view?usp=sharing)
+[<img src=dissertation.png  height="150">](https://drive.google.com/file/d/1LbiR_B0IlAIRU025P9r9BFtVkzQ31Qoj/view?usp=sharing)
 
 3. **3-term Arithmetic Progressions**<br>
 Extended essay supervised by Prof. Ben Green <br>
-[<img 3term_arithmetic.png  height="150">](https://drive.google.com/file/d/19O119to6cChwI_R7LQNqqyAlIDQfOxP7/view?usp=sharing)
+[<img src=3term_arithmetic.png  height="150">](https://drive.google.com/file/d/19O119to6cChwI_R7LQNqqyAlIDQfOxP7/view?usp=sharing)
 
 
