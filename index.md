@@ -20,7 +20,7 @@ Dissertation supervised by Dr. Ebrahim Patel <br>
 [![Dissertation](/pics/dissertation.png 'link to pdf')](https://drive.google.com/file/d/1LbiR_B0IlAIRU025P9r9BFtVkzQ31Qoj/view?usp=sharing)
 3. **3-term Arithmetic Progressions**<br>
 Extended essay supervised by Prof. Ben Green <br>
-[![Essay](/pics/3term_arithmetic.png 'link to pdf')](https://drive.google.com/file/d/19O119to6cChwI_R7LQNqqyAlIDQfOxP7/view?usp=sharing)
+[![Essay](https://github.com/rattaoup/page/blob/gh-pages/pics/3term_arithmetic.png 'link to pdf')](https://drive.google.com/file/d/19O119to6cChwI_R7LQNqqyAlIDQfOxP7/view?usp=sharing)
 ### Information
 Email: rattanapukdee at gmail dot com , [[CV](https://drive.google.com/file/d/1azSlK8K_5BQJnTJpsl1KOqMY2cI3ND1p/view?usp=sharing)]
 
