@@ -16,7 +16,7 @@ Summer research project supervised by Dr. Andrey Kormilitzin <br>
 1. **Hypergraphs projection method for community detections** <br>
 Mini-project for C5.4 Network <br>
 [[pdf](https://drive.google.com/file/d/14jZxz5apsUdgUVnUUhe-jhq7F5sN7si7/view?usp=sharing)]
-![Hypergraph](/page/pics/hypergraph.png)
+![Hypergraph](/pics/hypergraph.png)
 2. **Network Analysis in Team sports and Applications to English Premier League** <br>
 Dissertation supervised by Dr. Ebrahim Patel <br>
 [[pdf](https://drive.google.com/file/d/1LbiR_B0IlAIRU025P9r9BFtVkzQ31Qoj/view?usp=sharing)]
