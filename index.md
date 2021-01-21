@@ -27,6 +27,3 @@ Extended essay supervised by Prof. Ben Green <br>
 [<img src="3term_arithmetic.png"  height="250">](https://drive.google.com/file/d/19O119to6cChwI_R7LQNqqyAlIDQfOxP7/view?usp=sharing)
 
 
-### Resume
-[Resume Jan 2021](https://drive.google.com/file/d/1AmaA9ElIyJyJDViMRPBEieCdyulikt47/view?usp=sharing)
-
