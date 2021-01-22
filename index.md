@@ -3,6 +3,9 @@ Hi, my name is Rattana Pukdee. I'm from Bangkok, Thailand. I've just finished my
 
 I'm generally interested in understanding tools in machine learning using Mathematics and Statistics, in particular, Deep Neural Networks. Also, I'm interested in robustness and generalisation of machine learning models. <br>
 
+### Resume
+[Resume](https://drive.google.com/file/d/1d8TBM3yQ6BcLDnAnpzHNBKPYRa_cwax_/view?usp=sharing)
+
 ### Projects
 1. **Improving Transformation Invariance in Contrastive Representation Learning**<br>
 A.Foster, R.Pukdee, T.Rainforth <br>
