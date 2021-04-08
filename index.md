@@ -10,7 +10,7 @@ I'm generally interested in understanding tools in machine learning using Mathem
 1. **Improving Transformation Invariance in Contrastive Representation Learning**<br>
 A.Foster, R.Pukdee, T.Rainforth <br>
 Accepted to ICLR 2021 <br>
-[Github](https://github.com/ae-foster/invclr) [Dataset](https://github.com/rattaoup/spirograph)
+[Github](https://github.com/ae-foster/invclr) [Dataset](https://github.com/rattaoup/spirograph) <br>
 [<img src="spirograph3.png"  height="200">](https://arxiv.org/abs/2010.09515)
 
 
@@ -21,11 +21,11 @@ Summer research project supervised by Dr. Andrey Kormilitzin <br>
 ### Courseworks
 1. **Hypergraphs projection method for community detections** <br>
 Mini-project for C5.4 Network <br>
-[<img src="hypergraph.png"  height="200">](https://drive.google.com/file/d/14jZxz5apsUdgUVnUUhe-jhq7F5sN7si7/view?usp=sharing)
+[<img src="hypergraph.png"  height="200">](Mini_project___Network_2020.pdf)
 
 2. **Network Analysis in Team sports and Applications to English Premier League** <br>
 Dissertation supervised by Dr. Ebrahim Patel <br>
-[<img src="dissertation.png"  height="200">](https://drive.google.com/file/d/1LbiR_B0IlAIRU025P9r9BFtVkzQ31Qoj/view?usp=sharing)
+[<img src="dissertation.png"  height="200">](Network_dissertation_2020.pdf)
 
 3. **3-term Arithmetic Progressions**<br>
 Extended essay supervised by Prof. Ben Green <br>
