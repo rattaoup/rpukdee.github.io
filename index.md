@@ -1,11 +1,13 @@
 # About me 🖐
-#### My name is Rattana Pukdee. I am an incoming PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University. My research interests lie in the area of robust and safe machine learning and applications to promote social good. <br>
+My name is Rattana Pukdee. I am an incoming PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University. My research interests lie in the area of robust and safe machine learning and applications to promote social good. <br>
 
 ***
 
 ## News 📢
 * **Mar 2021** I am joining Prof. [Bryan Low](https://www.comp.nus.edu.sg/~lowkh/research.html)'s lab at NUS to work on trusted model/ data sharing and data valuation.
 * **Oct 2020** I am joining Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/)'s lab at IST Austria to work on theory of neural network pruning.
+
+***
 
 ## Projects 💻
 1. **Improving Transformation Invariance in Contrastive Representation Learning**<br>
@@ -18,6 +20,8 @@ Accepted to ICLR 2021 <br>
 2. **Predict Bitcoin prices by using Signature time series modelling** <br>
 Summer research project supervised by Dr. Andrey Kormilitzin <br>
 [<img src="stonk.jpg"  height="200">](https://towardsdatascience.com/predict-bitcoin-prices-by-using-signature-time-series-modelling-cf3100a882cc)
+
+***
 
 ## Courseworks 🎓
 1. **Hypergraphs projection method for community detections** <br>
