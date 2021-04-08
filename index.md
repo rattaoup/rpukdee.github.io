@@ -2,9 +2,7 @@
 My name is Rattana Pukdee. I am an incoming PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University. My research interests lie in the area of robust and safe machine learning and applications to promote social good. <br>
 
 Previously, I obtained a (4-year integrated) master degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). <br>
-
-[github](https://github.com/rattaoup) | [linkedin](linkedin.com/in/rattana-pukdee) <br>
-
+[github](https://github.com/rattaoup) | [linkedin](linkedin.com/in/rattana-pukdee)
 ***
 
 ## News 📢
