@@ -11,10 +11,11 @@ I'm generally interested in understanding tools in machine learning using Mathem
 A.Foster, R.Pukdee, T.Rainforth <br>
 Accepted to ICLR 2021 <br>
 [<img src="spirograph3.png"  height="200">](https://arxiv.org/abs/2010.09515)
+[repo](https://github.com/ae-foster/invclr)[repo(dataset only)](https://github.com/rattaoup/spirograph)
 
 2. **Predict Bitcoin prices by using Signature time series modelling** <br>
 Summer research project supervised by Dr. Andrey Kormilitzin <br>
-[<img src="bitcoin.png"  height="200">](https://towardsdatascience.com/predict-bitcoin-prices-by-using-signature-time-series-modelling-cf3100a882cc)
+[<img src="stonk.jpg"  height="200">](https://towardsdatascience.com/predict-bitcoin-prices-by-using-signature-time-series-modelling-cf3100a882cc)
 
 ### Courseworks
 1. **Hypergraphs projection method for community detections** <br>
