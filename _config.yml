@@ -1,6 +1,6 @@
-theme: minimal-mistakes-jekyll
-description: Incoming PhD student in  Machine Learning at Carnegie Mellon University
+theme: jekyll-theme-minimal
 title: Rattana Pukdee
+description: Incoming PhD student in  Machine Learning at Carnegie Mellon University
 logo: logo2.jpeg
 github:
   is_project_page: false
