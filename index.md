@@ -1,9 +1,9 @@
-## About me
+# About me
 Hi, my name is Rattana Pukdee. I'm from Bangkok, Thailand. I've just finished my Master's and Bachelor's degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). Currently, I'm a research intern at the [IST Austria](https://ist.ac.at/en/home/) under the supervision of Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/), working on theoretical aspect of Neural Network Pruning. From March 2021, I will be a research assistant at the [National University of Singapore](https://www.comp.nus.edu.sg/) with Prof. [Bryan Low](https://www.comp.nus.edu.sg/~lowkh/research.html) and will work on Variational Unlearning. <br>
 
 I'm generally interested in understanding tools in machine learning using Mathematics and Statistics, in particular, Deep Neural Networks. Also, I'm interested in robustness and generalisation of machine learning models. <br>
 
-## Projects
+# Projects
 1. **Improving Transformation Invariance in Contrastive Representation Learning**<br>
 A.Foster, R.Pukdee, T.Rainforth <br>
 Accepted to ICLR 2021 <br>
@@ -15,7 +15,7 @@ Accepted to ICLR 2021 <br>
 Summer research project supervised by Dr. Andrey Kormilitzin <br>
 [<img src="stonk.jpg"  height="200">](https://towardsdatascience.com/predict-bitcoin-prices-by-using-signature-time-series-modelling-cf3100a882cc)
 
-## Courseworks
+# Courseworks
 1. **Hypergraphs projection method for community detections** <br>
 Mini-project for C5.4 Network <br>
 [<img src="hypergraph.png"  height="200">](Mini_project___Network_2020.pdf)
