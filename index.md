@@ -2,7 +2,8 @@
 My name is Rattana Pukdee. I am an incoming PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University. My research interests lie in the area of robust and safe machine learning and applications to promote social good. <br>
 
 Previously, I obtained a (4-year integrated) master degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). <br>
-[github](https://github.com/rattaoup) | [linkedin](linkedin.com/in/rattana-pukdee)
+[Github](https://github.com/rattaoup) | [Linkedin](linkedin.com/in/rattana-pukdee)
+
 ***
 
 ## News 📢
@@ -15,7 +16,7 @@ Previously, I obtained a (4-year integrated) master degree in Mathematics from t
 1. **Improving Transformation Invariance in Contrastive Representation Learning**<br>
 A.Foster, R.Pukdee, T.Rainforth <br>
 Accepted to ICLR 2021 <br>
-[github](https://github.com/ae-foster/invclr) | [dataset](https://github.com/rattaoup/spirograph) <br>
+[Github](https://github.com/ae-foster/invclr) | [Dataset](https://github.com/rattaoup/spirograph) <br>
 [<img src="spirograph3.png"  height="200">](https://arxiv.org/abs/2010.09515)
 
 
