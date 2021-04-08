@@ -10,8 +10,9 @@ I'm generally interested in understanding tools in machine learning using Mathem
 1. **Improving Transformation Invariance in Contrastive Representation Learning**<br>
 A.Foster, R.Pukdee, T.Rainforth <br>
 Accepted to ICLR 2021 <br>
+[Github](https://github.com/ae-foster/invclr) [Dataset](https://github.com/rattaoup/spirograph)
 [<img src="spirograph3.png"  height="200">](https://arxiv.org/abs/2010.09515)
-[repo](https://github.com/ae-foster/invclr)[repo(dataset only)](https://github.com/rattaoup/spirograph)
+
 
 2. **Predict Bitcoin prices by using Signature time series modelling** <br>
 Summer research project supervised by Dr. Andrey Kormilitzin <br>
@@ -28,4 +29,4 @@ Dissertation supervised by Dr. Ebrahim Patel <br>
 
 3. **3-term Arithmetic Progressions**<br>
 Extended essay supervised by Prof. Ben Green <br>
-[<img src="3term_arithmetic.png"  height="200">](https://drive.google.com/file/d/19O119to6cChwI_R7LQNqqyAlIDQfOxP7/view?usp=sharing)
+[<img src="3term_arithmetic.png"  height="200">](3_term_arithmetic_progression_HT.pdf)
