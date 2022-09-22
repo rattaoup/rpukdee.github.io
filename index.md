@@ -1,5 +1,5 @@
 # About me 🖐
-My name is Rattana Pukdee. I am a second year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University working with Prof. Nina Balcan and Prof. Pradeep Ravikumar. My research interests lie in the area of machine learnning. I am particularly interested in the theoretical aspect of
+My name is Rattana Pukdee. I am a second year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University working with Prof. [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) and Prof. [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research interests lie in the area of machine learnning. I am particularly interested in the theoretical aspect of
 - Learning when we have additional information in term of unlabeled data or logic rules from domain knowledge. <br>
 - Interpretable machine learning <br>
 - Self-supervised learning <br>
@@ -10,7 +10,7 @@ Previously, I obtained a (4-year integrated) master degree in Mathematics from t
 ***
 
 ## News 📢
-* **Oct 2021** I am joining Prof. [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) and [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/).
+* **Oct 2021** I am joining Prof. [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) and [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)'s lab at CMU.
 * **Oct 2020** I am joining Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/)'s lab at IST Austria to work on theory of neural network pruning.
 
 ***
