@@ -16,6 +16,7 @@ Previously, I obtained a (4-year integrated) master degree in Mathematics from t
 ***
 
 ## Projects 💻
+
 **Sharp asymptotics on the compression of two-layer neural networks**<br>
 M.Amani, S.Bombari, M.Mondelli, R.Pukdee, S.Rini <br>
 Accepted to ITW 2022 <br>
