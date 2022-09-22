@@ -16,14 +16,20 @@ Previously, I obtained a (4-year integrated) master degree in Mathematics from t
 ***
 
 ## Projects 💻
-1. **Improving Transformation Invariance in Contrastive Representation Learning**<br>
+**Sharp asymptotics on the compression of two-layer neural networks**<br>
+M.Amani, S.Bombari, M.Mondelli, R.Pukdee, S.Rini <br>
+Accepted to ITW 2022 <br>
+[<img src="ETF.png"  height="200">](https://arxiv.org/pdf/2205.08199.pdf)
+
+
+**Improving Transformation Invariance in Contrastive Representation Learning**<br>
 A.Foster, R.Pukdee, T.Rainforth <br>
 Accepted to ICLR 2021 <br>
 [Github](https://github.com/ae-foster/invclr) | [Dataset](https://github.com/rattaoup/spirograph) <br>
 [<img src="spirograph3.png"  height="200">](https://arxiv.org/abs/2010.09515)
 
 
-2. **Predict Bitcoin prices by using Signature time series modelling** <br>
+**Predict Bitcoin prices by using Signature time series modelling** <br>
 Summer research project supervised by Dr. Andrey Kormilitzin <br>
 [<img src="stonk.jpg"  height="200">](https://towardsdatascience.com/predict-bitcoin-prices-by-using-signature-time-series-modelling-cf3100a882cc)
 
