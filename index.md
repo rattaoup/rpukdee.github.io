@@ -1,8 +1,8 @@
 # About me 🖐
 My name is Rattana Pukdee. I am a second year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University working with Prof. Nina Balcan and Prof. Pradeep Ravikumar. My research interests lie in the area of machine learnning. I am particularly interested in the theoretical aspect of
-- learning when we have additional information in term of unlabeled data or logic rules from domain knowledge. <br>
-- interpretable machine learning <br>
-- self-supervised learning <br>
+- Learning when we have additional information in term of unlabeled data or logic rules from domain knowledge. <br>
+- Interpretable machine learning <br>
+- Self-supervised learning <br>
 
 Previously, I obtained a (4-year integrated) master degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). <br>
 [Github](https://github.com/rattaoup) | [Linkedin](https://www.linkedin.com/in/rattana-pukdee/)
