@@ -1,8 +1,8 @@
 # About me 🖐
-My name is Rattana Pukdee. I am a second year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University working with Prof. [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) and Prof. [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research interests lie in the area of machine learnning. I am particularly interested in the theoretical aspect of
-- Learning when we have additional information in term of unlabeled data or logic rules from domain knowledge. <br>
-- Interpretable machine learning <br>
-- Self-supervised learning <br>
+My name is Rattana Pukdee. I am a second year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University working with Prof. [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) and Prof. [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research interests lie in the area of reliable machine learnning. I am particularly interested in the theoretical aspect of
+- Learning with side information. <br>
+- Robustness to adversarial attack and distribution shift <br>
+
 
 Previously, I obtained a (4-year integrated) master degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). <br>
 [Github](https://github.com/rattaoup) | [Linkedin](https://www.linkedin.com/in/rattana-pukdee/)
@@ -16,6 +16,21 @@ Previously, I obtained a (4-year integrated) master degree in Mathematics from t
 ***
 
 ## Projects 💻
+
+
+**Nash Equilibria and Pitfalls of Adversarial Training in Adversarial Robustness Games** <br>
+Maria-Florina Balcan, Rattana Pukdee, Pradeep Ravikumar, Hongyang Zhang <br>
+Accepted to AISTATS 2023 <br>
+[<img src="nash_adv.png"  height="200">](https://arxiv.org/abs/2210.12606)
+
+
+**Label Propagation with Weak Supervision**<br>
+Rattana Pukdee, Dylan Sam, Maria-Florina Balcan, Pradeep Ravikumar <br>
+Accepted to ICLR 2023 <br>
+[<img src="LPA_weaksup.png"  height="200">](https://arxiv.org/abs/2210.03594)
+
+
+
 
 **Sharp asymptotics on the compression of two-layer neural networks**<br>
 M.Amani, S.Bombari, M.Mondelli, R.Pukdee, S.Rini <br>
