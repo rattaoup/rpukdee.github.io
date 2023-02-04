@@ -21,7 +21,7 @@ Previously, I obtained a (4-year integrated) master degree in Mathematics from t
 **Nash Equilibria and Pitfalls of Adversarial Training in Adversarial Robustness Games** <br>
 Maria-Florina Balcan, Rattana Pukdee, Pradeep Ravikumar, Hongyang Zhang <br>
 Accepted to AISTATS 2023 <br>
-[<img src="nash_adv.png"  height="200">](https://arxiv.org/abs/2210.12606)
+[<img src="nash_adv.png"  height="150">](https://arxiv.org/abs/2210.12606)
 
 
 **Label Propagation with Weak Supervision**<br>
