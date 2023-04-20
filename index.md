@@ -1,6 +1,6 @@
 # About me 🖐
 My name is Rattana Pukdee. I am a second year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University working with Prof. [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) and Prof. [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research interests lie in the area of reliable machine learnning. I am particularly interested in the theoretical aspect of
-- Learning with side information. <br>
+- Learning with side information e.g. domain knowledge, unlabeled data. <br>
 - Robustness to adversarial attack and distribution shift <br>
 
 
@@ -16,6 +16,14 @@ Previously, I obtained a (4-year integrated) master degree in Mathematics from t
 ***
 
 ## Projects 💻
+
+**Reliable Learning for Test-time Attacks and Distribution Shift** <br>
+Maria-Florina Balcan, Steve Hanneke, Rattana Pukdee, Dravyansh Sharma <br>
+[<img src="robust_losses.png"  height="150">](https://arxiv.org/abs/2304.03370)
+
+**Learning with Explanation Constraints** <br>
+Rattana Pukdee, Dylan Sam, J. Zico Kolter, Maria-Florina Balcan, Pradeep Ravikumar <br>
+[<img src="explanation_constraint.png"  height="150">](https://arxiv.org/abs/2303.14496)
 
 
 **Nash Equilibria and Pitfalls of Adversarial Training in Adversarial Robustness Games** <br>
