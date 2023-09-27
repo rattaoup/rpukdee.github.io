@@ -1,28 +1,24 @@
 # About me 🖐
-My name is Rattana Pukdee. I am a second year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University working with Prof. [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) and Prof. [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research interests lie in the area of reliable machine learnning. I am particularly interested in the theoretical aspect of
-- Learning with side information e.g. domain knowledge, unlabeled data. <br>
-- Robustness to adversarial attack and distribution shift <br>
-
-
-Previously, I obtained a (4-year integrated) master degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). <br>
-[Github](https://github.com/rattaoup) | [Linkedin](https://www.linkedin.com/in/rattana-pukdee/)
-
+My name is Rattana Pukdee. I am a third year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University working with Prof. [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) and Prof. [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My research interests lie in the area of reliable machine learnning. I am particularly interested in the theoretical aspect of learning with side information e.g. domain knowledge, unlabeled data, explanations. Previously, I obtained a master degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/).
 ***
 
 ## News 📢
+* **Sep 2023** Honoured to receive [Bloomberg Data Science PhD fellowship 2023](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/).
 * **Oct 2021** I am joining Prof. [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) and [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)'s lab at CMU.
-* **Oct 2020** I am joining Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/)'s lab at IST Austria to work on theory of neural network pruning.
+* **Oct 2020** I am joining Prof. [Marco Mondelli](https://ist.ac.at/en/research/mondelli-group/)'s lab at IST Austria for a research internship.
 
 ***
 
 ## Projects 💻
 
-**Reliable Learning for Test-time Attacks and Distribution Shift** <br>
+**Reliable learning in challenging environments** <br>
 Maria-Florina Balcan, Steve Hanneke, Rattana Pukdee, Dravyansh Sharma <br>
+Accepted to NeurIPS 2023 <br>
 [<img src="robust_losses.png"  height="150">](https://arxiv.org/abs/2304.03370)
 
 **Learning with Explanation Constraints** <br>
 Rattana Pukdee, Dylan Sam, J. Zico Kolter, Maria-Florina Balcan, Pradeep Ravikumar <br>
+Accepted to NeurIPS 2023 <br>
 [<img src="explanation_constraint.png"  height="150">](https://arxiv.org/abs/2303.14496)
 
 
