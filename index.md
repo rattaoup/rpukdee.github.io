@@ -12,40 +12,40 @@ My name is Rattana Pukdee. I am a third year PhD student in the [Machine Learnin
 ## Papers
 
 **Reliable learning in challenging environments** <br>
-Maria-Florina Balcan, Steve Hanneke, Rattana Pukdee, Dravyansh Sharma <br>
-NeurIPS 2023, [Arxiv](https://arxiv.org/abs/2304.03370)<br>
+Maria-Florina Balcan, Steve Hanneke, **Rattana Pukdee**, Dravyansh Sharma <br>
+NeurIPS 2023, [Paper](https://arxiv.org/abs/2304.03370)<br>
 <!-- [<img src="robust_losses.png"  height="150">](https://arxiv.org/abs/2304.03370) -->
 
 **Learning with Explanation Constraints** <br>
-Rattana Pukdee, Dylan Sam, J. Zico Kolter, Maria-Florina Balcan, Pradeep Ravikumar <br>
-NeurIPS 2023 [Arxiv](https://arxiv.org/abs/2303.14496)<br>
+**Rattana Pukdee**, Dylan Sam, J. Zico Kolter, Maria-Florina Balcan, Pradeep Ravikumar <br>
+NeurIPS 2023 [Paper](https://arxiv.org/abs/2303.14496)<br>
 <!-- [<img src="explanation_constraint.png"  height="150">](https://arxiv.org/abs/2303.14496) -->
 
 
 **Nash Equilibria and Pitfalls of Adversarial Training in Adversarial Robustness Games** <br>
-Maria-Florina Balcan, Rattana Pukdee, Pradeep Ravikumar, Hongyang Zhang <br>
-AISTATS 2023 [Arxiv](https://arxiv.org/abs/2210.12606)<br>
+Maria-Florina Balcan, **Rattana Pukdee**, Pradeep Ravikumar, Hongyang Zhang <br>
+AISTATS 2023 [Paper](https://arxiv.org/abs/2210.12606)<br>
 <!-- [<img src="nash_adv.png"  height="125">](https://arxiv.org/abs/2210.12606) -->
 
 
 **Label Propagation with Weak Supervision**<br>
-Rattana Pukdee, Dylan Sam, Maria-Florina Balcan, Pradeep Ravikumar <br>
-ICLR 2023 [Arxiv](https://arxiv.org/abs/2210.03594)<br>
+**Rattana Pukdee**, Dylan Sam, Maria-Florina Balcan, Pradeep Ravikumar <br>
+ICLR 2023 [Paper](https://arxiv.org/abs/2210.03594)<br>
 <!-- [<img src="LPA_weaksup.png"  height="200">](https://arxiv.org/abs/2210.03594) -->
 
 
 
 
 **Sharp asymptotics on the compression of two-layer neural networks**<br>
-Mohammad Hossein Amani, Simone Bombari, Marco Mondelli, Rattana Pukdee, Stefano Rini <br>
-ITW 2022 [Arxiv](https://arxiv.org/pdf/2205.08199.pdf)<br>
+Mohammad Hossein Amani, Simone Bombari, Marco Mondelli, **Rattana Pukdee**, Stefano Rini <br>
+ITW 2022 [Paper](https://arxiv.org/pdf/2205.08199.pdf)<br>
 <!-- [<img src="ETF.png"  height="200">](https://arxiv.org/pdf/2205.08199.pdf) -->
 
 
 
 **Improving Transformation Invariance in Contrastive Representation Learning**<br>
-Adam Foster, Rattana Pukdee, Tom Rainforth <br>
-ICLR 2021, [Arxiv](https://arxiv.org/abs/2010.09515), [Code](https://github.com/ae-foster/invclr), [Dataset](https://github.com/rattaoup/spirograph)<br>
+Adam Foster, **Rattana Pukdee**, Tom Rainforth <br>
+ICLR 2021, [Paper](https://arxiv.org/abs/2010.09515), [Code](https://github.com/ae-foster/invclr), [Dataset](https://github.com/rattaoup/spirograph)<br>
 <!-- [Github](https://github.com/ae-foster/invclr) | [Dataset](https://github.com/rattaoup/spirograph) <br>
 [<img src="spirograph3.png"  height="200">](https://arxiv.org/abs/2010.09515) -->
 
