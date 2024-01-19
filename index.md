@@ -26,6 +26,11 @@ NeurIPS 2023 [Paper](https://arxiv.org/abs/2303.14496)<br>
 <!-- [<img src="explanation_constraint.png"  height="150">](https://arxiv.org/abs/2303.14496) -->
 
 
+**Bayesian Neural Networks with Domain Knowledge** <br>
+ Dylan Sam, **Rattana Pukdee**, Daniel P. Jeong, Yewon Byun, J. Zico Kolter <br>
+ ICML KLR Workshop 2023 (Oral) <br>
+
+
 **Nash Equilibria and Pitfalls of Adversarial Training in Adversarial Robustness Games** <br>
 Maria-Florina Balcan, **Rattana Pukdee**, Pradeep Ravikumar, Hongyang Zhang <br>
 AISTATS 2023 [Paper](https://arxiv.org/abs/2210.12606)<br>
