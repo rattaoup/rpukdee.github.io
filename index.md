@@ -11,7 +11,11 @@ My name is Rattana Pukdee. I am a third year PhD student in the [Machine Learnin
 
 ## Papers
 
-**Reliable learning in challenging environments** <br>
+**Spectrally Transformed Kernel Regression** <br>
+Runtian Zhai, **Rattana Pukdee**, Roger Jin, Maria-Florina Balcan, Pradeep Ravikumar <br>
+ICLR 2024 (Spotlight)
+
+**Reliable Learning in Challenging Environments** <br>
 Maria-Florina Balcan, Steve Hanneke, **Rattana Pukdee**, Dravyansh Sharma <br>
 NeurIPS 2023, [Paper](https://arxiv.org/abs/2304.03370)<br>
 <!-- [<img src="robust_losses.png"  height="150">](https://arxiv.org/abs/2304.03370) -->
@@ -36,7 +40,7 @@ ICLR 2023 [Paper](https://arxiv.org/abs/2210.03594)<br>
 
 
 
-**Sharp asymptotics on the compression of two-layer neural networks**<br>
+**Sharp Asymptotics on the Compression of Two-layer Neural Networks**<br>
 Mohammad Hossein Amani, Simone Bombari, Marco Mondelli, **Rattana Pukdee**, Stefano Rini <br>
 ITW 2022 [Paper](https://arxiv.org/pdf/2205.08199.pdf)<br>
 <!-- [<img src="ETF.png"  height="200">](https://arxiv.org/pdf/2205.08199.pdf) -->
