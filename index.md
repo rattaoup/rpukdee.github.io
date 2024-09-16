@@ -14,7 +14,7 @@ My name is Rattana Pukdee. I am a fourth year PhD student in the [Machine Learni
 
 **Spectrally Transformed Kernel Regression** <br>
 Runtian Zhai, **Rattana Pukdee**, Roger Jin, Maria-Florina Balcan, Pradeep Ravikumar <br>
-ICLR 2024 (Spotlight)
+ICLR 2024 (Spotlight), [Paper](https://arxiv.org/abs/2402.00645) <br>
 
 **Reliable Learning in Challenging Environments** <br>
 Maria-Florina Balcan, Steve Hanneke, **Rattana Pukdee**, Dravyansh Sharma <br>
