@@ -1,6 +1,5 @@
-## About me 
 
-<img src= "profile_pic.jpeg" width = 300>
+<img src= "pics/profile_pic.jpeg" width = 300>
 
 My name is Rattana Pukdee. I am a fourth year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University working with Prof. [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) and Prof. [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/). My PhD is supported [Bloomberg Data Science PhD fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). I am particularly interested in the theoretical aspect of learning with side information e.g. domain knowledge, unlabeled data, explanations. Previously, I obtained a master degree in Mathematics from the [University of Oxford](https://www.maths.ox.ac.uk/). I do photography in my free time and you can find some of my work [here](photography.md). 
 

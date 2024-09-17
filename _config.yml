@@ -6,7 +6,6 @@
 
 
 title: Rattana Pukdee
-author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -20,9 +19,9 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
 
 # Theme-specific settings
 
