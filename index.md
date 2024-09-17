@@ -1,4 +1,4 @@
-# About me 
+## About me 
 
 <img src= "profile_pic.jpeg" width = 300>
 
