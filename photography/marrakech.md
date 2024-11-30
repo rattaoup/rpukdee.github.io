@@ -5,4 +5,4 @@
 <img src="../pics/marrakech/03.jpg"   >
 <img src="../pics/marrakech/04.jpg"   >
 
-<img src="../pics/marrakech/05.jpg"  ">
+<img src="../pics/marrakech/05.jpg"  >
