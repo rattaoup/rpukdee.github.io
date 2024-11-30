@@ -4,12 +4,23 @@ title: "Photography 📸"
 categories: misc
 ---
 
-
+Africa
 - [Marrakech](photography/marrakech.md) 
-- [Cusco](photography/cusco.md)
+
+
+Central / South America
+- [Cancun](photography/cancun.md)
+- [Peru](photography/cusco.md)
+
+Europe
 - [Budapest](photography/budapest.md)
 - [Vienna](photography/vienna.md)
-- [New york](photography/newyork.md)
+
+North America
 - [Pittsburgh](photography/pittsburgh.md)
+- [New york](photography/newyork.md)
+- [Las Vegas](photography/vegas.md)
+- [Toronto](photography/toronto.md)
+
 
 
