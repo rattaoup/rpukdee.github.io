@@ -1,9 +1,8 @@
-<img src="../pics/marrakech/1.jpg"   width="380">
+<img src="../pics/marrakech/01.jpg"  >
 
-<img src="../pics/marrakech/2.jpg"   width="380">
+<img src="../pics/marrakech/02.jpg"  >
 
-<img src="../pics/marrakech/3.jpg"   width="380">
+<img src="../pics/marrakech/03.jpg"   >
+<img src="../pics/marrakech/04.jpg"   >
 
-<img src="../pics/marrakech/5.jpg"   width="380">
-
-<img src="../pics/marrakech/4.jpg"  width="380">
+<img src="../pics/marrakech/05.jpg"  ">
