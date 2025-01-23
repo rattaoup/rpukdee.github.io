@@ -33,47 +33,77 @@ North America
     .carousel-image.active {
       display: block;
     }
-    .carousel-caption {
-      font-size: 16px;
-      padding: 10px;
-      color: black;
-    }
-    .carousel-buttons {
-      margin-top: 10px;
-    }
-    .carousel-buttons button {
-      background-color: #007bff;
-      color: white;
-      border: none;
-      padding: 10px 20px;
-      margin: 0 5px;
-      cursor: pointer;
-    }
-    .carousel-buttons button:hover {
-      background-color: #0056b3;
-    }
+  .carousel-caption {
+  font-size: 12px; /* Smaller font size for caption */
+  color: #555; /* Softer color for text */
+  margin-top: 10px; /* Add spacing from the image */
+  display: flex; /* Flexbox for horizontal alignment */
+  justify-content: center; /* Center the caption and arrows */
+  align-items: center; /* Vertically align the caption text and arrows */
+  gap: 10px; /* Space between arrows and caption */
+}
+ .carousel-buttons button {
+  background: none; /* Remove background from buttons */
+  border: none; /* Remove border */
+  color: black; /* Default color for arrows */
+  font-size: 24px; /* Large, clear arrow size */
+  cursor: pointer; /* Pointer cursor for interactivity */
+  padding: 5px 10px; /* Add a bit of padding for easier clicking */
+  transition: color 0.3s ease; /* Smooth hover effect */
+}
+.carousel-buttons button:hover {
+  color: #007bff; /* Blue color for hover effect */
+}
   </style>
 
   <!-- Images -->
-  <img src="pics/budapest/01.jpg" alt="Slide 1" class="carousel-image active">
-  <img src="pics/budapest/02.jpg" alt="Slide 2" class="carousel-image">
-  <img src="pics/budapest/03.jpg" alt="Slide 3" class="carousel-image">
+  <img src="pics/slideshows/01.jpg" class="carousel-image active">
+  <img src="pics/slideshows/02.jpg" class="carousel-image">
+  <img src="pics/slideshows/03.jpg" class="carousel-image">
+  <img src="pics/slideshows/04.jpg" class="carousel-image">
+  <img src="pics/slideshows/05.jpg" class="carousel-image">
+  <img src="pics/slideshows/06.jpg" class="carousel-image">
+  <img src="pics/slideshows/07.jpg" class="carousel-image">
+  <img src="pics/slideshows/08.jpg" class="carousel-image">
+  <img src="pics/slideshows/09.jpg" class="carousel-image">
+  <img src="pics/slideshows/10.jpg" class="carousel-image">
+  <img src="pics/slideshows/11.jpg" class="carousel-image">
+  <img src="pics/slideshows/12.jpg" class="carousel-image">
+  <img src="pics/slideshows/13.jpg" class="carousel-image">
+  <img src="pics/slideshows/14.jpg" class="carousel-image">
+  <img src="pics/slideshows/15.jpg" class="carousel-image">
+  <img src="pics/slideshows/16.jpg" class="carousel-image">
+  <img src="pics/slideshows/17.jpg" class="carousel-image">
+  <img src="pics/slideshows/18.jpg" class="carousel-image">
 
-  <!-- Caption -->
-  <div id="carouselCaption" class="carousel-caption">Caption for Slide 1</div>
 
-  <!-- Buttons -->
-  <div class="carousel-buttons">
-    <button onclick="prevImage()">&#8592; Previous</button>
-    <button onclick="nextImage()">Next &#8594;</button>
-  </div>
+  <div id="carouselCaption" class="carousel-caption">
+  <button onclick="prevImage()">&#8592;</button>
+  <span>Caption for Slide 1</span>
+  <button onclick="nextImage()">&#8594;</button>
+</div>
 
   <script>
     const images = document.querySelectorAll('.carousel-image');
     const captions = [
-      'Caption for Slide 1',
-      'Caption for Slide 2',
-      'Caption for Slide 3'
+      'Marrakech',
+      'Budapest',
+      'Ha Long Bay',
+      'Taipei',
+      'Vienna',
+      'Taipei',
+      'Marrakech',
+      'Bangkok',
+      'Cancun',
+      'Hanoi',
+      'Marrakech',
+      'New york',
+      'Lima',
+      'Pittsburgh',
+      'Pittsburgh',
+      'Pittsburgh',
+      'Toronto',
+      'Las Vegas'
     ];
     const captionElement = document.getElementById('carouselCaption');
     let currentIndex = 0;
