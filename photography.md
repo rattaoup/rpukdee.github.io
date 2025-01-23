@@ -22,7 +22,6 @@ North America
 - [Las Vegas](photography/vegas.md)
 - [Toronto](photography/toronto.md)
  -->
-
 <div id="carousel" style="max-width: 800px; margin: auto; text-align: center;">
   <style>
     .carousel-image {
@@ -82,32 +81,33 @@ North America
   <!-- Caption with arrows -->
   <div id="carouselCaption" class="carousel-caption">
     <button onclick="prevImage()">&#8592;</button>
-    <span>Marrakech</span>
+    <span>Marrakech, 2024</span>
     <button onclick="nextImage()">&#8594;</button>
   </div>
 
   <script>
     const images = document.querySelectorAll('.carousel-image');
     const captions = [
-      'Marrakech, 2024',
-      'Budapest, 2024',
-      'Ha Long Bay, 2024',
-      'Taipei, 2024',
-      'Vienna, 2024',
-      'Taipei, 2024',
-      'Marrakech, 2024',
-      'Bangkok, 2024',
-      'Cancun, 2024',
-      'Hanoi, 2024',
-      'Marrakech, 2024',
-      'New York, 2024',
-      'Lima, 2024',
-      'Pittsburgh, 2024',
-      'Pittsburgh, 2024',
-      'Pittsburgh, 2024',
-      'Toronto, 2024',
-      'Las Vegas, 2024'
-    ];
+      'Marrakech',
+      'Budapest',
+      'Ha Long Bay',
+      'Taipei',
+      'Vienna',
+      'Taipei',
+      'Marrakech',
+      'Bangkok',
+      'Cancun',
+      'Hanoi',
+      'Marrakech',
+      'New York',
+      'Lima',
+      'Pittsburgh',
+      'Pittsburgh',
+      'Pittsburgh',
+      'Toronto',
+      'Las Vegas'
+    ].map(caption => `${caption}, 2024`); // Add ", 2024" to each caption dynamically
+
     const captionText = document.querySelector('#carouselCaption span');
     let currentIndex = 0;
 
@@ -126,4 +126,5 @@ North America
       showImage(currentIndex);
     }
   </script>
+
 
