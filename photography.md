@@ -23,109 +23,75 @@ North America
 - [Toronto](photography/toronto.md)
  -->
 
+<div id="carousel" style="max-width: 800px; margin: auto; text-align: center;">
+  <style>
+    .carousel-image {
+      max-width: 100%;
+      height: auto;
+      display: none;
+    }
+    .carousel-image.active {
+      display: block;
+    }
+    .carousel-caption {
+      font-size: 16px;
+      padding: 10px;
+      color: black;
+    }
+    .carousel-buttons {
+      margin-top: 10px;
+    }
+    .carousel-buttons button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      margin: 0 5px;
+      cursor: pointer;
+    }
+    .carousel-buttons button:hover {
+      background-color: #0056b3;
+    }
+  </style>
 
+  <!-- Images -->
+  <img src="pics/budapest/01.jpg" alt="Slide 1" class="carousel-image active">
+  <img src="pics/budapest/02.jpg" alt="Slide 2" class="carousel-image">
+  <img src="pics/budapest/03.jpg" alt="Slide 3" class="carousel-image">
 
+  <!-- Caption -->
+  <div id="carouselCaption" class="carousel-caption">Caption for Slide 1</div>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Image Carousel</title>
-    <style>
-        .carousel-container {
-            max-width: 100%;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .carousel {
-            position: relative;
-            width: 100%;
-            max-width: 800px;
-        }
-        .carousel-inner {
-            display: flex;
-            transition: transform 0.5s ease;
-            overflow: hidden;
-        }
-        .carousel-item {
-            flex: 0 0 100%;
-            width: 100%;
-        }
-        .carousel-item img {
-            width: 100%;
-            height: auto;
-            object-fit: contain;
-        }
-        .carousel-controls {
-            display: flex;
-            justify-content: center;
-            margin-top: 10px;
-        }
-        .nav-arrow {
-            background: none;
-            border: none;
-            font-size: 2rem;
-            cursor: pointer;
-            color: #333;
-        }
-        .carousel-caption {
-            text-align: center;
-            margin-top: 10px;
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-    <div class="carousel-container">
-        <div class="carousel">
-            <div class="carousel-inner" id="carouselInner">
-                <div class="carousel-item">
-                    <img src="./pics/budapest/01.jpg" alt="First Image">
-                </div>
-                <div class="carousel-item">
-                    <img src="./pics/budapest/02.jpg" alt="Second Image">
-                </div>
-                <div class="carousel-item">
-                    <img src="./pics/budapest/03.jpg" alt="Third Image">
-                </div>
-            </div>
-        </div>
-        <div class="carousel-controls">
-            <button class="nav-arrow prev" onclick="changeSlide(-1)">←</button>
-            <div class="carousel-caption">Image Caption</div>
-            <button class="nav-arrow next" onclick="changeSlide(1)">→</button>
-        </div>
-    </div>
+  <!-- Buttons -->
+  <div class="carousel-buttons">
+    <button onclick="prevImage()">&#8592; Previous</button>
+    <button onclick="nextImage()">Next &#8594;</button>
+  </div>
 
-    <script>
-        let currentSlide = 0;
-        const slides = document.querySelectorAll('.carousel-item');
-        const carouselInner = document.getElementById('carouselInner');
-        const caption = document.querySelector('.carousel-caption');
+  <script>
+    const images = document.querySelectorAll('.carousel-image');
+    const captions = [
+      'Caption for Slide 1',
+      'Caption for Slide 2',
+      'Caption for Slide 3'
+    ];
+    const captionElement = document.getElementById('carouselCaption');
+    let currentIndex = 0;
 
-        const captions = [
-            "First Image Caption",
-            "Second Image Caption", 
-            "Third Image Caption"
-        ];
+    function showImage(index) {
+      images.forEach((img, i) => {
+        img.classList.toggle('active', i === index);
+      });
+      captionElement.textContent = captions[index];
+    }
 
-        function changeSlide(direction) {
-            currentSlide += direction;
-            
-            if (currentSlide >= slides.length) {
-                currentSlide = 0;
-            }
-            if (currentSlide < 0) {
-                currentSlide = slides.length - 1;
-            }
-            
-            const offset = -currentSlide * 100;
-            carouselInner.style.transform = `translateX(${offset}%)`;
-            
-            caption.textContent = captions[currentSlide];
-        }
-    </script>
-</body>
-</html>
+    function nextImage() {
+      currentIndex = (currentIndex + 1) % images.length;
+      showImage(currentIndex);
+    }
+
+    function prevImage() {
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      showImage(currentIndex);
+    }
+  </script>
