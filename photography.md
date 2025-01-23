@@ -30,30 +30,33 @@ North America
       height: auto;
       display: none;
     }
+
     .carousel-image.active {
       display: block;
     }
-  .carousel-caption {
-  font-size: 12px; /* Smaller font size for caption */
-  color: #555; /* Softer color for text */
-  margin-top: 10px; /* Add spacing from the image */
-  display: flex; /* Flexbox for horizontal alignment */
-  justify-content: center; /* Center the caption and arrows */
-  align-items: center; /* Vertically align the caption text and arrows */
-  gap: 10px; /* Space between arrows and caption */
-}
- .carousel-buttons button {
-  background: none; /* Remove background from buttons */
-  border: none; /* Remove border */
-  color: black; /* Default color for arrows */
-  font-size: 24px; /* Large, clear arrow size */
-  cursor: pointer; /* Pointer cursor for interactivity */
-  padding: 5px 10px; /* Add a bit of padding for easier clicking */
-  transition: color 0.3s ease; /* Smooth hover effect */
-}
-.carousel-buttons button:hover {
-  color: #007bff; /* Blue color for hover effect */
-}
+
+    .carousel-caption {
+      font-size: 14px; /* Smaller font size */
+      color: #555; /* Softer color */
+      margin-top: 10px;
+      display: flex; /* Flex layout */
+      justify-content: center; /* Center items */
+      align-items: center; /* Align arrows and text vertically */
+      gap: 10px; /* Space between arrows and text */
+    }
+
+    .carousel-caption button {
+      background: none; /* No background for buttons */
+      border: none; /* No border */
+      color: black; /* Default color */
+      font-size: 20px; /* Arrow size */
+      cursor: pointer; /* Pointer cursor */
+      transition: color 0.3s ease; /* Smooth hover effect */
+    }
+
+    .carousel-caption button:hover {
+      color: #007bff; /* Highlight on hover */
+    }
   </style>
 
   <!-- Images -->
@@ -76,43 +79,41 @@ North America
   <img src="pics/slideshows/17.jpg" class="carousel-image">
   <img src="pics/slideshows/18.jpg" class="carousel-image">
 
-
+  <!-- Caption with arrows -->
   <div id="carouselCaption" class="carousel-caption">
-  <button onclick="prevImage()">&#8592;</button>
-  <span>Caption for Slide 1</span>
-  <button onclick="nextImage()">&#8594;</button>
-</div>
+    <button onclick="prevImage()">&#8592;</button>
+    <span>Marrakech</span>
+    <button onclick="nextImage()">&#8594;</button>
+  </div>
 
   <script>
     const images = document.querySelectorAll('.carousel-image');
     const captions = [
-      'Marrakech',
-      'Budapest',
-      'Ha Long Bay',
-      'Taipei',
-      'Vienna',
-      'Taipei',
-      'Marrakech',
-      'Bangkok',
-      'Cancun',
-      'Hanoi',
-      'Marrakech',
-      'New york',
-      'Lima',
-      'Pittsburgh',
-      'Pittsburgh',
-      'Pittsburgh',
-      'Toronto',
-      'Las Vegas'
+      'Marrakech, 2024',
+      'Budapest, 2024',
+      'Ha Long Bay, 2024',
+      'Taipei, 2024',
+      'Vienna, 2024',
+      'Taipei, 2024',
+      'Marrakech, 2024',
+      'Bangkok, 2024',
+      'Cancun, 2024',
+      'Hanoi, 2024',
+      'Marrakech, 2024',
+      'New York, 2024',
+      'Lima, 2024',
+      'Pittsburgh, 2024',
+      'Pittsburgh, 2024',
+      'Pittsburgh, 2024',
+      'Toronto, 2024',
+      'Las Vegas, 2024'
     ];
-    const captionElement = document.getElementById('carouselCaption');
+    const captionText = document.querySelector('#carouselCaption span');
     let currentIndex = 0;
 
     function showImage(index) {
-      images.forEach((img, i) => {
-        img.classList.toggle('active', i === index);
-      });
-      captionElement.textContent = captions[index];
+      images.forEach((img, i) => img.classList.toggle('active', i === index));
+      captionText.textContent = captions[index];
     }
 
     function nextImage() {
@@ -125,3 +126,4 @@ North America
       showImage(currentIndex);
     }
   </script>
+
