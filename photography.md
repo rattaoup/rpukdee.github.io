@@ -4,7 +4,7 @@ title: "Photography 📸"
 categories: misc
 ---
 
-Africa
+<!-- Africa
 - [Marrakech](photography/marrakech.md) 
 
 
@@ -21,6 +21,10 @@ North America
 - [New york](photography/newyork.md)
 - [Las Vegas](photography/vegas.md)
 - [Toronto](photography/toronto.md)
+ -->
+
+
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -78,20 +82,20 @@ North America
         <div class="carousel">
             <div class="carousel-inner" id="carouselInner">
                 <div class="carousel-item">
-                    <img src="pics/budapest/01.jpg" alt="First Image">
+                    <img src="./pics/budapest/01.jpg" alt="First Image">
                 </div>
                 <div class="carousel-item">
-                    <img src="pics/budapest/02.jpg" alt="Second Image">
+                    <img src="./pics/budapest/02.jpg" alt="Second Image">
                 </div>
                 <div class="carousel-item">
-                    <img src="pics/budapest/03.jpg" alt="Third Image">
+                    <img src="./pics/budapest/03.jpg" alt="Third Image">
                 </div>
             </div>
         </div>
         <div class="carousel-controls">
-            <button class="nav-arrow prev" onclick="changeSlide(-1)">◀</button>
+            <button class="nav-arrow prev" onclick="changeSlide(-1)">←</button>
             <div class="carousel-caption">Image Caption</div>
-            <button class="nav-arrow next" onclick="changeSlide(1)">▶</button>
+            <button class="nav-arrow next" onclick="changeSlide(1)">→</button>
         </div>
     </div>
 
