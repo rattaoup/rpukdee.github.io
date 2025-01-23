@@ -23,15 +23,22 @@ North America
 - [Toronto](photography/toronto.md)
  --><div id="carousel" style="max-width: 800px; margin: auto; text-align: center;">
   <style>
-     .carousel-image {
-    width: auto; /* Automatically adjust width to maintain aspect ratio */
-    height: 500px; /* Change this value to set your desired height */
-    display: none; /* Hide inactive images */
-    object-fit: cover; /* Ensure the image fills the container while maintaining aspect ratio */
-  }
+    #carousel {
+      display: flex;
+      flex-direction: column; /* Stack the images and captions */
+      justify-content: center; /* Center items vertically */
+      align-items: center; /* Center items horizontally */
+    }
+
+    .carousel-image {
+      max-width: 100%; /* Prevent the image from exceeding the container width */
+      height: 1200px; /* Set a fixed height */
+      display: none; /* Hide inactive images */
+      object-fit: cover; /* Maintain aspect ratio while filling the container */
+    }
 
     .carousel-image.active {
-      display: block;
+      display: block; /* Show active image */
     }
 
     .carousel-caption {
@@ -39,7 +46,7 @@ North America
       color: #555; /* Softer color */
       margin-top: 10px;
       display: flex; /* Flex layout */
-      justify-content: center; /* Center items */
+      justify-content: center; /* Center items horizontally */
       align-items: center; /* Align arrows and text vertically */
       gap: 10px; /* Space between arrows and text */
     }
