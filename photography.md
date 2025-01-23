@@ -21,7 +21,7 @@ North America
 - [New york](photography/newyork.md)
 - [Las Vegas](photography/vegas.md)
 - [Toronto](photography/toronto.md)
- --><div id="carousel" style="max-width: 800px; margin: auto; text-align: center;">
+ --><div id="carousel" style="max-width: 4000px; margin: auto; text-align: center;">
   <style>
     #carousel {
       display: flex;
@@ -31,8 +31,8 @@ North America
     }
 
     .carousel-image {
-      max-width: 100%; /* Prevent the image from exceeding the container width */
-      height: 1200px; /* Set a fixed height */
+      width: auto; /* Prevent the image from exceeding the container width */
+      height: 500px; /* Set a fixed height */
       display: none; /* Hide inactive images */
       object-fit: cover; /* Maintain aspect ratio while filling the container */
     }
@@ -132,5 +132,3 @@ North America
       showImage(currentIndex);
     }
   </script>
-
-
