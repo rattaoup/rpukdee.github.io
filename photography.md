@@ -21,14 +21,14 @@ North America
 - [New york](photography/newyork.md)
 - [Las Vegas](photography/vegas.md)
 - [Toronto](photography/toronto.md)
- -->
-<div id="carousel" style="max-width: 800px; margin: auto; text-align: center;">
+ --><div id="carousel" style="max-width: 800px; margin: auto; text-align: center;">
   <style>
-    .carousel-image {
-      max-width: 100%;
-      height: auto;
-      display: none;
-    }
+     .carousel-image {
+    width: auto; /* Automatically adjust width to maintain aspect ratio */
+    height: 500px; /* Change this value to set your desired height */
+    display: none; /* Hide inactive images */
+    object-fit: cover; /* Ensure the image fills the container while maintaining aspect ratio */
+  }
 
     .carousel-image.active {
       display: block;
@@ -81,7 +81,7 @@ North America
   <!-- Caption with arrows -->
   <div id="carouselCaption" class="carousel-caption">
     <button onclick="prevImage()">&#8592;</button>
-    <span>Marrakech, 2024</span>
+    <span>Marrakech</span>
     <button onclick="nextImage()">&#8594;</button>
   </div>
 
@@ -106,8 +106,7 @@ North America
       'Pittsburgh',
       'Toronto',
       'Las Vegas'
-    ].map(caption => `${caption}, 2024`); // Add ", 2024" to each caption dynamically
-
+    ];
     const captionText = document.querySelector('#carouselCaption span');
     let currentIndex = 0;
 
