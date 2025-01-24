@@ -20,7 +20,7 @@ My name is Rattana Pukdee. I am a fourth year PhD student in the [Machine Learni
 
 ## Papers
 
-**Learning from weak labelers as constraints** <br>
+**Learning from Weak Labelers as Constraints** <br>
 Vishwajeet Agrawal\*, **Rattana Pukdee**\*, Maria Florina Balcan, Pradeep Ravikumar <br>
 ICLR 2025
 
